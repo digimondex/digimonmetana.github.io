@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimonmetana.github.io/sitemap.xml
